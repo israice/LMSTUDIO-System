@@ -8,6 +8,8 @@
 - create open.py
 - create close.py
 - working with one spesific LLM for now 
+- created text_in text_out and run.py
+## v002
 
 
 # github commands
@@ -22,5 +24,5 @@ git fetch origin; git checkout master; git reset --hard 1eaef8b;; git clean -fdx
 
 ## Quick github update
 git add .
-git commit -m "working version v0.1.0"
+git commit -m "created text_in text_out and run.py"
 git push
